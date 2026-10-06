@@ -1,7 +1,7 @@
 # ☕ Starbucks Data Analysis Dashboard
 
 <p align="center">
-  <img src="Images/dashboard-preview.png" alt="Starbucks Data Analysis Dashboard" width="100%">
+  <img src="Images/Screenshot 2026-10-06 112753.png" alt="Starbucks Data Analysis Dashboard" width="100%">
 </p>
 
 <p align="center">
@@ -169,7 +169,7 @@ The dashboard currently reports **33 total beverages**.
 ### Main Dashboard
 
 <p align="center">
-  <img src="Images/dashboard-preview.png" alt="Full Starbucks Power BI dashboard" width="98%">
+  <img src="Images/Screenshot 2026-10-06 112753.png" alt="Full Starbucks Power BI dashboard" width="98%">
 </p>
 
 ### Dashboard Components
@@ -293,12 +293,12 @@ Because the current Power BI account does not have public **Publish to web** ena
 - 📝 Project documentation
 - 🔍 Analysis methodology
 
-### Future Live Version
+```### Future Live Version
 
 When a public Power BI report link is available, add it here:
 
 **[🚀 Open Interactive Dashboard](YOUR_POWER_BI_PUBLIC_LINK)**
-
+```
 ---
 
 ## 📈 Skills Demonstrated
@@ -343,7 +343,7 @@ I enjoy combining **design, data and product thinking** to build clear and usefu
 [🐙 Explore My Projects](https://github.com/kishanpatel486630)
 
 **LinkedIn:**  
-[💼 Connect with Me](https://www.linkedin.com/)
+[💼 Connect with Me](https://www.linkedin.com/in/kishan-parvadiya-593120268/)
 
 ---
 
